@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nicolás Agudelo
 
-Junior **Mobile & Web Developer** focused on building cross-platform applications with **Flutter** and modern web apps with **Angular**.
+Junior **Mobile & Web Developer** focused on building cross-platform applications with **Flutter** and modern web applications with **Angular**.
 
 ---
 
@@ -16,19 +16,38 @@ Junior **Mobile & Web Developer** focused on building cross-platform application
 
 ## 🛠 Tech Stack
 
-### 📱 Mobile
-- Flutter
-- Dart
+### 🧠 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
 
-### 🌐 Web
-- Angular
-- TypeScript
-- HTML & CSS
+---
 
-### ⚙️ Backend & Tools
-- Firebase (Auth, Firestore)
-- REST APIs
-- Git & GitHub
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
+</p>
+
+---
+
+### 🔥 Technologies & Services
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+</p>
+
+---
+
+### ⚙️ Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
 
 ---
 
@@ -36,8 +55,8 @@ Junior **Mobile & Web Developer** focused on building cross-platform application
 
 > 🚧 Currently working on personal projects and learning repositories.
 
-- 📱 **Flutter App (MVP)** – *In development*
-- 🌐 **Angular Web App** – *Learning & practice*
+- 📱 **Flutter App (MVP)** – In development
+- 🌐 **Angular Web App** – Learning & practice
 - 📚 **Learning Repositories** – Flutter, Dart, Angular & TypeScript
 
 More projects coming soon.
@@ -55,11 +74,14 @@ More projects coming soon.
 
 ## 📫 Contact & Links
 
+- 📧 Email: [nicolas.agudelo.dev@gmail.com](mailto:nicolas.agudelo.dev@gmail.com)  
 - GitHub: https://github.com/NicolasAgudelo7505
-- Freelance platforms: *Coming soon*
+- Freelance platforms: Coming soon
 
 ---
 
 ## 🏷 Tags
 
 `flutter` `dart` `angular` `typescript` `mobile-development` `web-development` `firebase`
+
+
