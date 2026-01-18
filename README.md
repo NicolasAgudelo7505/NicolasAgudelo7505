@@ -75,7 +75,6 @@ More projects coming soon.
 ## 📫 Contact & Links
 
 - 📧 Email: [nicolas.agudelo.dev@gmail.com](mailto:nicolas.agudelo.dev@gmail.com)  
-- GitHub: https://github.com/NicolasAgudelo7505
 - Freelance platforms: Coming soon
 
 ---
